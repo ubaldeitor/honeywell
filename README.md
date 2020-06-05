@@ -1,3 +1,13 @@
+## Honeywell REACT + Redux + TypeScript App
+This project was created using React with TypeScript Template and Redux as state store manager. You can add students in store then you can list them, delete and select them. 
+
+I use other tools to achieve UX interface like Bootstrap and Bootstrap React. 
+
+It does not include any backend as it was required. 
+
+Luis Godinez. 
+Contact 5537002074
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
